@@ -8,8 +8,8 @@ Please do not report security vulnerabilities through public GitHub issues, disc
 Instead, use one of these private communication channels:
 
 - [Keybase](https://keybase.io/woylie)
-- [Elixir Slack](https://elixir-lang.slack.com/team/U30GMFN83) (private message, username: woylie))
 - [Contact form](https://mathiaspolligkeit.com)
+- [Elixir Slack](https://elixir-lang.slack.com/team/U30GMFN83) (private message, username: woylie)
 
 Please include as much of the information listed below as you can to help us
 better understand and resolve the issue:
