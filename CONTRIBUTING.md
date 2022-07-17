@@ -32,9 +32,11 @@ instructions.
 
 Please make sure to:
 
-- run the linters, format checkers, tests and static analysis tools of the
-  project locally before you push
-- document new and updated features (preferably with examples, if applicable)
+- Run the linters, format checkers, tests and static analysis tools of the
+  project locally before you push.
+- Add tests that cover your changes. In the case of bug fixes, add a test that
+  fails without the fix and that passes with the fix.
+- Document new and updated features (preferably with examples, if applicable).
 
 Make sure to reference the issue in your PR (e.g. `resolves #123`).
 
