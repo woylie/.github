@@ -49,6 +49,12 @@ The changelog follows the format described at
 [Keep a changelog](https://keepachangelog.com). If you introduce breaking
 changes, upgrade instructions using the `diff` markdown syntax are appreciated.
 
+#### Legal Notice
+
+When contributing to this project, you must agree that you have authored 100% of
+the content, that you have the necessary rights to the content and that the
+content you contribute may be provided under the project license.
+
 ### General questions
 
 If you have general questions about the usage of the project, please open a
