@@ -49,16 +49,26 @@ The changelog follows the format described at
 [Keep a changelog](https://keepachangelog.com). If you introduce breaking
 changes, upgrade instructions using the `diff` markdown syntax are appreciated.
 
-#### Legal Notice
-
-When contributing to this project, you must agree that you have authored 100% of
-the content, that you have the necessary rights to the content and that the
-content you contribute may be provided under the project license.
-
 ### General questions
 
 If you have general questions about the usage of the project, please open a
 discussion on Github.
+
+## Legal Notice
+
+By contributing to this project, you agree that you have authored 100% of
+the content, that you have the necessary rights to the content, and that the
+content you contribute may be provided under the project license.
+
+## AI / LLM Policy
+
+Due to concerns about quality, ethics, and copyright, please do not submit
+content written with the assistance of large language models (LLMs) or other AI
+tools. This policy applies to all content, including but not limited to code,
+documentation, issue and pull request descriptions, and comments.
+
+You may use machine translation tools to translate texts from your native
+language to English. Please mark such texts as machine-translated.
 
 ## Code of Conduct
 
