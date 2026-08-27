@@ -5,7 +5,9 @@ disclosure.
 
 Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests, or any other public means.
 
-Instead, use one of these private communication channels:
+Instead, draft a new security advisory at https://github.com/woylie/{repo}/security/advisories/new.
+
+You can also reach out privately via one of these channels:
 
 - [Keybase](https://keybase.io/woylie)
 - [Contact form](https://mathiaspolligkeit.com)
