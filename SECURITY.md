@@ -5,7 +5,8 @@ disclosure.
 
 Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests, or any other public means.
 
-Instead, draft a new security advisory at https://github.com/woylie/{repo}/security/advisories/new.
+Instead, draft a new security advisory at https://github.com/woylie/{repo}/security/advisories/new. Replace `{repo}` with the
+repository name.
 
 You can also reach out privately via one of these channels:
 
