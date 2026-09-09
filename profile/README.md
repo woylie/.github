@@ -15,7 +15,7 @@ Projects I maintain:
 | [Ecto Nested Changeset](https://github.com/woylie/ecto_nested_changeset) | Manipulation of nested Ecto changesets                                                                   |
 | [Elixir Baseline](https://github.com/woylie/elixir_baseline)             | Tool to keep configuration, CI workflows, etc. in sync across multiple Elixir repos (still experimental) |
 | [Barker](https://github.com/woylie/barker)                               | SCSS starter kit                                                                                         |
-| [Ebb](https://github.com/woylie/ebb)                                     | CLI for time tracking and flex time balance written in Rust.                                             |
+| [Ebb](https://github.com/woylie/ebb)                                     | CLI for time tracking and flex time balance written in Rust                                             |
 | [Req Circuit Breaker](https://github.com/scoville/req_circuit_breaker)   | Circuit breaker plugin for Req                                                                           |
 | [Req SSRF](https://github.com/scoville/req_ssrf)                         | SSRF protection plugin for Req                                                                           |
 | [Safe Redirect](https://github.com/scoville/safe_redirect)               | Redirect URI validation library to prevent open redirect vulnerabilities                                 |
